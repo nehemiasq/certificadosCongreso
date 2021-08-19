@@ -18,7 +18,7 @@
         <center>
         <form class="form-row">
   <div class="form-group">
-    <!--<label for="inputPassword2" class="sr-only">Material congreso</label>
+    <!--<label for="inputPassword2" class="sr-only">Material congreso</labe>
     <button type="submit" class="btn btn-primary" value="vistaMaterial">Descargar</button>-->
 
     <?php if ($MaterialCongreso != ""): ?>   
